@@ -93,3 +93,19 @@ Hard non-reveal lock is preserved correctly.
 ## Gate
 F/G/H/POST status after audit: AUDITED_WITH_CORRECTIONS_REQUIRED.
 SHOT 157/158 conflict is resolved. No shot in these files should advance to REF_LOCKED until the remaining transcription omissions above are restored.
+
+
+## CORRECTION PASS COMPLETED — 2026-09-20
+Creator-approved SHOT 157→158 repair has been applied.
+
+All previously identified F/G/H/POST transcription omissions have now been restored into the production shot files, including:
+- F: controlled SHOT 142 body/silk detail; SHOT 143 historical cell behavior; complete 150/152/154/156 information and dialogue.
+- G: complete weapon staging 159; E*NKI noticing U*TTU at 160; restored exact dialogue/information at 161/165/169/170/171/175/176/177/178/179/181.
+- H: source status corrected to SOURCE_VERIFIED; restored 183/189/191/192/193 details and full dialogue where relevant.
+- POST: restored PC01 BIP opening, BOTTLE-H1 level continuity, complete PC03–PC08 dialogue/staging, and full PC09 BOOM/silence/BOOM/glitch/NO SIGNAL cadence.
+
+Current gate:
+- Narrative/source audit F/G/H/POST: PASS.
+- SHOT 157→158 continuity conflict: RESOLVED.
+- Files are now SOURCE_VERIFIED / READY_FOR_REF.
+- REF_LOCKED is not yet asserted: visual reference assets, scale, environment topology, prop reference stills and frame-chain continuity remain to be locked.
