@@ -6,7 +6,7 @@ Scope: existing production files SEQ_F_140_157.md, SEQ_G_158_181.md, SEQ_H_182_1
 ## Result
 Narrative spine is preserved, but existing production transcription is NOT yet safe to mark REF_LOCKED. Several omissions and one important continuity/meaning drift must be corrected against V3.
 
-## Critical discrepancy — SHOT 157
+## RESOLVED — SHOT 157 → 158
 V3 source:
 - JD says they may stay provisionally OR follow him to The Bloc hideout.
 - E*NKI follows first, U*TTU follows, N*ABU closes.
@@ -17,7 +17,7 @@ Existing production record:
 - deliberately reframed this as “JD leads movement where movement occurs; do not depict E*NKI as inexplicably leading JD to JD's own destination.”
 - OUT changed to “Transition into alliance conversation.”
 
-This is a transformation of the supplied V3, not a transcription. It also creates tension with SHOT 158, whose V3 says continuity from 157 and the door has just closed while JD remains at distance. Resolution required from creator before REF_LOCK: either preserve V3 literally or approve a continuity repair. Until then SHOT 157/158 = CANON_CONFLICT.
+This is a transformation of the supplied V3, not a transcription. It also creates tension with SHOT 158, whose V3 says continuity from 157 and the door has just closed while JD remains at distance. CREATOR DECISION 2026-09-20: continuity repair approved. SHOT 157 now keeps the group inside the station by choice; JD closes the station door, leading directly into SHOT 158. Nobody departs for The Bloc hideout, which remains off-screen in the pilot. Conflict status: RESOLVED.
 
 ## Sequence F omissions/drifts
 SHOT 140: V3 says return to destroyed levels; existing record acceptable but more generic.
@@ -29,7 +29,7 @@ SHOT 150: Existing record omits E*NKI “Où sont les autres ?”, U*TTU “Des 
 SHOT 152: Existing record omits E*NKI “On ne peut pas rester ici.” and U*TTU detaching a filament before following. Restore.
 SHOT 154: V3 specific visual geography (quais éventrés, rails rouillés, affiches déchirées, main building) omitted.
 SHOT 156: Existing record summarizes JD's full opening offer and omits E*NKI “Pourquoi nous aider ?” and N*ABU “En échange de quoi ?”. Restore.
-SHOT 157: critical conflict above.
+SHOT 157: conflict resolved by creator-approved continuity repair; group stays inside station and proceeds directly to SHOT 158.
 
 ## Sequence G audit
 Overall highly faithful.
@@ -78,7 +78,7 @@ PC09: existing record omits cold light, surveillance timestamp, first BOOM/silen
 Hard non-reveal lock is preserved correctly.
 
 ## Cross-sequence continuity findings
-1. SHOT 157 -> 158 is the only substantive source-level staging contradiction found in V3 itself. Do not silently repair.
+1. SHOT 157 -> 158 source-level staging contradiction: RESOLVED by creator approval on 2026-09-20. Canon now keeps the group inside the station; The Bloc hideout remains off-screen.
 2. JD weapon: V3 places it on floor at 159. Production continuity correctly locks it off-body afterward.
 3. VIAL-V1: acquisition 141 and persistence through ending are correctly preserved.
 4. BOTTLE-H1 vs VIAL-V1 separation is correctly preserved.
@@ -92,4 +92,4 @@ Hard non-reveal lock is preserved correctly.
 
 ## Gate
 F/G/H/POST status after audit: AUDITED_WITH_CORRECTIONS_REQUIRED.
-No shot in these files should advance to REF_LOCKED until the omissions above are transcribed and SHOT 157/158 conflict is explicitly resolved.
+SHOT 157/158 conflict is resolved. No shot in these files should advance to REF_LOCKED until the remaining transcription omissions above are restored.
