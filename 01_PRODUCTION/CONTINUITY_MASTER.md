@@ -1,16 +1,29 @@
 # CONTINUITY MASTER
 
-This file tracks cross-sequence state changes. Shot-level continuity will live in the Shot Registry.
+This file tracks cross-sequence state changes. Shot-level continuity lives in the Shot Registry.
 
 ## E*NKI state chain
 1. ordinary rabbit past — CHR-ENKI-A0
-2. transformed Saint Juniper clinical — CHR-ENKI-E0
-3. hunter encounter
-4. acquires practical hunter loadout — CHR-ENKI-E1
-5. returns to Saint Juniper in E1
-6. acquires PROP-VIAL-V1 at SHOT_141
-7. keeps MITER bracelet + vial through alliance and ending
-8. remains E1 at pilot end
+2. transformed Saint Juniper clinical — CHR-ENKI-E0, canonical loose MITER patient gown / hospital blouse
+3. **Sequence A spatial lock:** before the 012–019 archive-memory block resolves, present-day E*NKI has already left his own containment cell
+4. SHOT_019 A0 eye / G*BOY reflection -> SHOT_020 present humanoid eye match cut
+5. SHOT_021 resumes progression through destroyed Saint Juniper; **no second unlock or cell exit**
+6. hunter encounter
+7. acquires practical hunter loadout — CHR-ENKI-E1
+8. returns to Saint Juniper in E1
+9. acquires PROP-VIAL-V1 at SHOT_141
+10. keeps MITER bracelet + vial through alliance and ending
+11. remains E1 at pilot end
+
+## Sequence A correction lock — 2026-09-20
+Supersedes the older Storyboard V3 transcription for SHOT_021–022:
+- obsolete: systems fail -> E*NKI's cell door cracks open -> E*NKI hesitates -> first threshold crossing
+- canonical current continuity: E*NKI is already outside containment when the archive-memory block occurs
+- SHOT_020 returns from A0 memory to present E*NKI
+- SHOT_021 resumes his movement through the destroyed lab
+- SHOT_022 continues forward progression and may not re-stage his own cell exit
+- SHOT_024 may still show other cells during escape progression
+- this correction does not alter the earlier transformation/self-recognition beats
 
 ## N*ABU state chain
 1. ordinary raccoon A0
