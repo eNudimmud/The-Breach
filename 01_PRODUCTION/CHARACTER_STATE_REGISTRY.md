@@ -18,12 +18,10 @@ Transformed organic humanoid lagomorph in early Saint Juniper clinical state.
 ### CHR-ENKI-E1 — HUNTER LOADOUT
 Begins after forest hunter inventory sequence.
 - same body/face/eyes as E0
-- stolen practical jacket
-- stolen pants
-- stolen boots
-- bag/sack and useful material
+- stolen practical hunter jacket/pants/boots
+- backpack/bag, water, food, lamp and useful tools as acquired in the hunter sequence
 - MITER bracelet remains
-- later PROP-VIAL-V1 joins carried inventory at SHOT_141
+- PROP-VIAL-V1 joins carried inventory at SHOT_141
 - forbidden: mustard parka/red hoodie/olive cargo/violet sneaker iconic outfit
 
 ## N*ABU
@@ -34,16 +32,27 @@ A0 ordinary raccoon -> A1 contaminated animal -> A2 coma transformation -> A3 hu
 Transformation must NOT occur at the pipe.
 
 ### CHR-NABU-A3
-- organic raccoon humanoid
-- compact, robust, agile
-- strong natural raccoon facial mask
+- organic adult raccoon humanoid
+- compact, robust, agile; never cartoon/chibi or human body with raccoon head
+- natural black/anthracite/eggshell fur with strong raccoon facial mask
+- amber eyes
 - articulated humanoid hands with claws
-- bipedal feet
-- tail retained
+- bipedal clawed feet
+- large ringed tail retained and visible whenever framing permits
 - no cybernetics
 
-### CHR-NABU-A3-T0
-A3 with improvised blanket/tissue/cord/strap covering from station resources. No polished costume and no techwear.
+### CHR-NABU-A3-T0 — PILOT LOCK
+Canonical pilot reference state after transformation.
+- same anatomy/face/fur/tail as A3
+- old railway blanket in worn grey/beige/red tones
+- blanket visibly frayed, holed and improvised rather than tailored
+- secured only with recovered rope/cord/strap from the station
+- SHOT_086: transformation complete beneath blankets left by E*NKI
+- SHOTS_086–109: blanket is progressively used as improvised protection
+- SHOT_110 onward: covering is arranged into the stable A3-T0 state
+- forbidden in THE BREACH: future black techwear, hoodie, sneakers, logos, trader equipment, electronic accessories
+
+Future techwear references may be used only to preserve N*ABU facial identity, skull/muzzle/ear proportions, fur mask, eye character and palette. They are not costume references for the pilot.
 
 ## U*TTU
 
