@@ -96,3 +96,26 @@ Before animation production, create and approve one neutral lineup containing:
 E*NKI E1 / N*ABU A3 / U*TTU UT1 / JD J1.
 
 That lineup becomes the relative-height reference for every multi-character shot.
+
+
+## CREATOR VISUAL REFERENCE LOCKS — 2026-09-20
+
+### N*ABU
+NABU-REF-A0: realistic ordinary raccoon reference controls A0/A1 animal identity: natural quadruped anatomy, black/grey/cream fur, strong facial mask, amber/brown eyes, ringed tail.
+NABU-REF-A3-T0: creator-approved pilot visual state: same raccoon identity transformed into compact organic humanoid anatomy, wrapped in a salvaged frayed grey/beige/dark-red railway blanket secured with rope/cord. No tailored garment logic.
+NABU-REF-FUTURE-01/02: future techwear/trading images are identity-only references. They may preserve face, skull/muzzle/ears, fur mask, eyes and palette; wardrobe, logos, electronics, sneakers and trader context are forbidden in THE BREACH.
+
+### U*TTU
+UTTU-REF-UT0: creator reference locks dark black/bronze natural spider material/morphology language, with subtle bronze/gold fissure-like markings. In the pilot UT0 remains a tiny ordinary spider at actual scene scale.
+UT1 remains governed by exact canon morphology: 2 humanoid arms + 6 arachnid limbs.
+
+### MITER SECURITY
+MITER-SEC-REF-1990 locks CHR-MITER-SEC-01 visual era:
+- olive drab fatigues
+- black ballistic/tactical vest
+- black gloves and combat boots
+- period cap
+- period ID/patch language
+- period long-gun/equipment silhouette
+- analog laboratory-security context
+Forbidden: contemporary plate-carrier/operator styling, modern optics overload, futuristic armor, sci-fi helmet.
