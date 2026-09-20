@@ -13,7 +13,9 @@ Transformed organic humanoid lagomorph in early Saint Juniper clinical state.
 - RIGHT eye red/orange
 - LEFT eye amber/yellow
 - MITER bracelet
-- clinical/patient clothing where scene requires
+- **canonical laboratory-patient wardrobe: loose MITER patient gown / hospital blouse**
+- the gown remains the E0 wardrobe throughout the Saint Juniper patient state until an explicit narrative wardrobe change
+- forbidden for E0: T-shirt + shorts patient set; this is reference-generation drift, not canon
 
 ### CHR-ENKI-E1 — HUNTER LOADOUT
 Begins after forest hunter inventory sequence.
