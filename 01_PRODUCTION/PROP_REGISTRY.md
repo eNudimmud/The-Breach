@@ -50,3 +50,20 @@ Golden biological silk.
 - must connect plausibly to surfaces/body/fingers depending action
 - can transmit vibration
 - no free-floating energy geometry
+
+
+## VISUAL REFERENCE LOCKS — 2026-09-20
+
+### PROP-VIAL-V1 / COMPOUND-REF-C1
+Creator references lock the compound as translucent saturated cyan/blue tending blue-green, with subtle internal wispy/turbulent structure. Apparent luminosity is weak and context-dependent in low light; it is not magical illumination.
+
+VIAL-REF-V1 visual basis:
+- transparent laboratory glass
+- elongated simple cylindrical form with rounded base
+- simple physical closure
+- clearly readable liquid fill line
+- portable/robust production adaptation remains required
+
+When the final hero-prop still is approved, freeze exact dimensions, closure, fill percentage, glass thickness and compound hue as VIAL-V1. Until then status is VISUAL_BASIS_LOCKED, HERO_GEOMETRY_PENDING.
+
+Never import cork/fantasy-potion styling merely because a reference uses a cork. No runes, energy particles or supernatural glow.
