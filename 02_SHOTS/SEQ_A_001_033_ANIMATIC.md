@@ -44,9 +44,24 @@ Authority: latest explicit creator revision.
 **Prop/state lock:** MITER SUBJECT E-07 bracelet remains visible and persists as long-form continuity through SHOT 191.
 **Hard continuity:** do not turn the movement into a confident human gesture.
 
-## SHOT 003 — WAITING FOR CREATOR REFERENCE
-Canon target: macro of the new hand; E*NKI begins studying it.
-Required distinction from SHOT 002: 002 = hand wakes on floor; 003 = E*NKI recognizes/examines the limb as his own.
+## SHOT 003 — REF READY
+**Story function:** E*NKI recognizes the unfamiliar humanoid hand as his own; transition from involuntary motor recovery to conscious self-observation.
+
+**Primary creator reference**
+- `1000034970.png` — preferred SHOT 003 composition: E*NKI kneeling, one hand raised and examined, other hand grounded/resting; patient gown and MITER SUBJECT E-07 bracelet visible.
+
+**Secondary creator reference**
+- `1000034969.png` — alternate examination pose; useful anatomy/pose support, but less clean for the intended single-hand study.
+- `1000034962.png` — eye/fur detail support only; reserve for identity/eye continuity, not the primary SHOT 003 frame.
+
+**IN_STATE:** continuation from SHOT 002 finger contraction. E*NKI has managed to bring himself partially upright/kneeling.
+**ACTION:** he slowly raises the newly controlled hand into his own field of view, rotates it minimally, flexes/separates fingers and studies the articulation. The movement is weak, tentative and analytical—not a confident inspection gesture.
+**CAMERA:** intimate low/medium-close composition, favoring hand + face relationship; shallow depth of field; no dramatic orbit.
+**OUT_STATE:** raised hand held between E*NKI and his gaze; conscious recognition established.
+**NEXT_IN:** SHOT 004 one-second institutional/VHS memory flash of ordinary rabbit paw/cage + CLANG.
+**Provisional duration:** 3–4 s.
+**Method:** I2V preferred from `1000034970.png`; preserve face, hand anatomy, gown, bracelet, blood/debris state and laboratory lighting.
+**Hard continuity:** E*NKI remains E0/patient state; no iconic wardrobe; do not overexpose heterochromia before its intended progressive identity reveal.
 
 ## Sequence-A reference intake note
-Creator supplied new production references during animatic pass. They are currently indexed here immediately so the shot chain remains durable. Central reference archive/manifests can be versioned after intake without losing shot provenance.
+Creator-supplied production references are indexed here immediately so the shot chain remains durable. New binary images are also queued for the Sequence-A reference pack that will be uploaded into `03_REFERENCES`; shot provenance must never depend on chat history alone.
