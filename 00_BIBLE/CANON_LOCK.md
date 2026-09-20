@@ -10,11 +10,17 @@ If a generated asset violates a HARD rule below, it is rejected rather than patc
 - Saint Juniper / MiterCorp experimentation is physical, technological and biological, not mystical.
 - Continuity beats spectacle. Prefer a simpler shot with a correct raccord.
 - An accepted shot does not silently redefine canon.
+- Explicit later creator revisions supersede older storyboard beats only where stated.
 
 ## E*NKI
 - Adult organic white anthropomorphic lagomorph.
 - Mature narrow/angular face, restrained muzzle, realistic proportions.
 - Heterochromia: character RIGHT eye = red/orange; character LEFT eye = amber/yellow.
+- Eye colors are natural iris pigmentation, not emissive/supernatural glow.
+- Early-pilot canonical MITER patient wardrobe = **loose patient gown / hospital blouse**.
+- **T-shirt + shorts patient outfit is rejected reference-generation drift and is not canon.**
+- Sequence A current spatial lock: by the 012–020 archive-memory/match-cut passage, present-day E*NKI is already outside his own containment cell.
+- The obsolete SHOT 021–022 second unlock / second cell-exit beat must not be reintroduced.
 - Early-pilot clothing is NOT the later iconic mustard-parka outfit.
 - Post-hunter state: ENKI-E1 HUNTER LOADOUT.
 - MITER subject bracelet remains a continuity prop.
