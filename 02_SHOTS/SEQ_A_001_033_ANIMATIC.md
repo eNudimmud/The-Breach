@@ -63,5 +63,29 @@ Authority: latest explicit creator revision.
 **Method:** I2V preferred from `1000034970.png`; preserve face, hand anatomy, gown, bracelet, blood/debris state and laboratory lighting.
 **Hard continuity:** E*NKI remains E0/patient state; no iconic wardrobe; do not overexpose heterochromia before its intended progressive identity reveal.
 
+## SHOT 004 — REF READY
+**Story function:** first involuntary pre-transformation memory; contrast the new humanoid hand with the former ordinary rabbit paw and establish captivity.
+
+**Primary creator reference**
+- `1000034971.png` — macro ordinary white rabbit paw pressed against dirty/scratched containment glass; strongest match for the one-second paw-memory beat.
+
+**Supporting creator references**
+- `1000034972.png` — reverse/inside-containment paw POV toward two MITER scientists; useful for institutional observation context.
+- `1000013518.png` — scientist/gloved-hand interaction with ordinary rabbit behind glass.
+- `1000013517.png` — rear full-rabbit containment composition.
+- `1000013515.png` — rabbit POV/observation through dirty glass with two scientists.
+- `1000013516.png` — wide physical MITER containment box and analog/CRT laboratory context.
+- `1000013514.png` — extreme rabbit-face/eye detail through glass; identity/emotional support, not primary frame.
+
+**IN_STATE:** hard mnemonic interruption from SHOT 003 raised humanoid hand.
+**ACTION:** ~1 s flash: ordinary rabbit paw against containment glass; abrupt physical `CLANG` dominates. No transformation, no humanoid anatomy, no explanatory montage.
+**CAMERA/LOOK:** institutional archive/VHS treatment in edit; macro/close-up; dirty glass remains tactile and physical.
+**OUT_STATE:** hard cut back to present.
+**NEXT_IN:** SHOT 005 E*NKI recoils/pulls the humanoid arm back from the memory and attempts to rise.
+**Provisional duration:** ~1.0 s.
+**Method:** STILL + edit treatment preferred; optional micro I2V only if needed for paw impact/contact.
+**Hard continuity:** this is E*NKI pre-transform as an ordinary white rabbit. No heterochromia requirement in this animal state; no patient gown; no bracelet; no magical/futuristic effects.
+**Sound lock:** single abrupt `CLANG`, materially tied to containment/glass/cage memory.
+
 ## Sequence-A reference intake note
 Creator-supplied production references are indexed here immediately so the shot chain remains durable. New binary images are also queued for the Sequence-A reference pack that will be uploaded into `03_REFERENCES`; shot provenance must never depend on chat history alone.
